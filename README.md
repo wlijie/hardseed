@@ -81,19 +81,20 @@ Show current version.
 
 --av-class  
 There are 13 av classes: 
-- caoliu_west_reposted
-- caoliu_cartoon_reposted
-- caoliu_asia_mosaicked_reposted
-- caoliu_asia_non_mosaicked_reposted
-- caoliu_west_original
-- caoliu_cartoon_original
-- caoliu_asia_mosaicked_original
-- caoliu_asia_non_mosaicked_original
-- caoliu_selfie
-- aicheng_west
-- aicheng_cartoon
-- aicheng_asia_mosaicked
-- aicheng_asia_non_mosaicked  
+- caoliu_west_reposted #欧美转载
+- caoliu_cartoon_reposted #卡通转贴
+- caoliu_asia_mosaicked_reposted #亚洲有码转贴
+- caoliu_asia_non_mosaicked_reposted #亚洲无码转贴
+- caoliu_west_original #欧美
+- caoliu_cartoon_original #卡通原创
+- caoliu_asia_mosaicked_original #亚洲有码转贴
+- caoliu_asia_non_mosaicked_original #亚洲无码转贴
+- caoliu_selfie #自拍
+- aicheng_west #欧美
+- aicheng_cartoon #卡通
+- aicheng_asia_mosaicked #亚洲有码
+- aicheng_asia_non_mosaicked  #亚洲无码转贴
+
 
 As the name implies, "caoliu" stands for CaoLiu forum, "aicheng" for AiCheng forum, "reposted" and "original" are clearity, you konw which one is your best lover (yes, only one).   
 The default is aicheng_asia_mosaicked.   
