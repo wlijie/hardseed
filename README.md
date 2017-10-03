@@ -170,7 +170,9 @@ $ git clone https://github.com/yangyangwithgnu/hardseed.git
  
 ####『linux』
 0）唯一依赖 libcurl，请自行安装；  
-1）代码采用 C++11 编写，gcc 版本不低于 4.7.1。  
+1）代码采用 C++11 编写，gcc 版本不低于 4.7.1。
+sudo yum update
+sudo yum install libcurl-devel
 2）命令行下运行：  
 ```
 $ cd hardseed/build/
